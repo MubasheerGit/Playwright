@@ -2,6 +2,8 @@
 
 //Problem: Take a number and print whether it's even or odd.
 
+//for code alignemnt - alt+shift+f
+
 let number = 8;
 
 if (number % 2 ===0){
