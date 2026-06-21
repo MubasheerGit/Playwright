@@ -1,1 +1,29 @@
-node_modules/ 
+node_modules/
+
+# Node
+npm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Env
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright
+test-results/
+playwright-report/
+
+# Logs
+logs/
+*.log
+
+# Misc
+.idea/
+coverage/
